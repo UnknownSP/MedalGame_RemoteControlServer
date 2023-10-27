@@ -1,0 +1,12 @@
+.vs
+Library
+Logs
+obj
+Packages
+Temp
+UserSettings
+Samples
+.vsconfig
+*.csproj
+*.meta
+*.wav
